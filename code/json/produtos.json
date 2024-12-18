@@ -1,0 +1,36 @@
+{
+  "produto": [
+    {
+      "img": "../../images/image-baklava-desktop.jpg",
+      "categoria": "whaffle",
+      "nome": "whaffle",
+      "preco": 6.5,
+      "quantidade": 0,
+      "id": "0"
+    },
+    {
+      "img": "../../images/image-brownie-desktop.jpg",
+      "categoria": "brownie",
+      "nome": "brownie",
+      "preco": 6.9,
+      "quantidade": 0,
+      "id": "1"
+    },
+    {
+      "img": "../../images/image-cake-desktop.jpg",
+      "categoria": "whaffle",
+      "nome": "whaffle",
+      "preco": 6.5,
+      "quantidade": 0,
+      "id": "2"
+    },
+    {
+      "img": "../../images/image-brownie-desktop.jpg",
+      "categoria": "whaffle",
+      "nome": "whaffle",
+      "preco": 6.5,
+      "quantidade": 0,
+      "id": "3"
+    }
+  ]
+}

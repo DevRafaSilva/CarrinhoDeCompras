@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/code/css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Carrinho de compras</title>
+</head>
+
+<body>
+  <main>
+    <h1>Desserts</h1>
+    <div data-produtos class="produtos">
+
+      <div class="carrinho-div">
+        <h2>Your Cart <span data-quantidade></span></h2>
+        <div class="card-icone" data-produtos-cart>
+          <img data-imagem-ilustrativa src="../../images/illustration-empty-cart.svg" alt="Icone card">
+        </div>
+        <div data-total-div class="total">
+          <h3>TOTAL</h3>
+          <p data-total></p>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="../../node_modules/axios/dist/axios.min.js"></script>
+  <script type="module" src="/code/script/script.js"></script>
+</body>
+
+</html>
